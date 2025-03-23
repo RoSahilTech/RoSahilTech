@@ -11,7 +11,7 @@
   <br>
   
   <div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGk3dmUybWp3bXpuNnl5dnE5a3VrcTFpdnI4cm0xNDNwaWM4OGQ2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rLOWLDL7uRKECU8Gxb/giphy.gif" width="100%" alt="Robotics Circuit Animation"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44a0-9fa1-e139773f8bf1.gif" width="100%" alt="Robotics Circuit Animation"/>
   </div>
   
   <img src="https://thumbs.gfycat.com/BetterFalseKomododragon-size_restricted.gif" width="100%" alt="Circuit Board Animation">
