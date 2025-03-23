@@ -65,36 +65,23 @@ Passionate robotics and electronics engineer with a focus on creating innovative
 ## 📫 Connect With Me
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://www.linkedin.com/in/sahil-kumar-sharma-9a760b355/">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/RoSahilTech">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=plastic" alt="GitHub" />
-        </a>
-      </td>
-      <td>
-        <a href="mailto:sahilkumarsharmaprofessional@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic" alt="Gmail" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://www.linkedin.com/in/sahil-kumar-sharma-9a760b355/">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="80" height="80" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/RoSahilTech">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="80" height="80" alt="GitHub" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sahilkumarsharmaprofessional@gmail.com">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="80" height="80" alt="Gmail" style="filter: invert(50%) sepia(100%) saturate(9999%) hue-rotate(0deg) brightness(100%) contrast(100%);" />
+  </a>
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=120&section=footer&text=&fontSize=90" alt="Footer wave">
 </div>
 
 <div align="center">
