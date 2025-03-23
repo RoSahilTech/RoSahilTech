@@ -10,11 +10,7 @@
   
   <br>
   
-  <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44a0-9fa1-e139773f8bf1.gif" width="100%" alt="Robotics Circuit Animation"/>
-  </div>
-  
-  <img src="https://thumbs.gfycat.com/BetterFalseKomododragon-size_restricted.gif" width="100%" alt="Circuit Board Animation">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=120&section=header&text=&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=62&descAlign=62" alt="waves">
 </div>
 
 
