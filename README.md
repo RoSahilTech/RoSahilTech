@@ -65,15 +65,41 @@ Passionate robotics and electronics engineer with a focus on creating innovative
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/raw/master/assets/icons/linkedin.png" width="60">
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/yourusername">
-    <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/raw/master/assets/icons/github.png" width="60">
-  </a>&nbsp;&nbsp;
-  <a href="mailto:your.email@example.com">
-    <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/raw/master/assets/icons/gmail.png" width="60">
+  <table>
+    <tr>
+      <td>
+        <a href="https://linkedin.com/in/yourusername">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/yourusername">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=plastic" alt="GitHub" />
+        </a>
+      </td>
+      <td>
+        <a href="mailto:your.email@example.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic" alt="Gmail" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+</div>
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/yourusername">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee">
   </a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffee/images/footer.svg" width="100%">
 </div>
 
 <div align="center">
