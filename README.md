@@ -72,7 +72,7 @@ Passionate robotics and electronics engineer with a focus on creating innovative
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="80" height="80" alt="GitHub" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:sahilkumarsharmaprofessional@gmail.com">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="80" height="80" alt="Gmail" style="filter: invert(50%) sepia(100%) saturate(9999%) hue-rotate(0deg) brightness(100%) contrast(100%);" />
+    <img src="https://img.icons8.com/nolan/64/gmail.png" width="80" height="80" alt="Gmail" />
   </a>
 </div>
 
