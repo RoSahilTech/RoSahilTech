@@ -11,11 +11,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=120&section=header&text=&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=62&descAlign=62" alt="waves">
 </div>
 
-<div align="center">
-  <img src="https://i.imgur.com/QTi5dJP.gif" width="600">
-  <br>
-  <img src="https://i.imgur.com/x1KbuCq.gif" height="30" width="100%">
-</div>
 
 ## 🤖 About Me
 
