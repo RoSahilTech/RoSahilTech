@@ -68,17 +68,17 @@ Passionate robotics and electronics engineer with a focus on creating innovative
   <table>
     <tr>
       <td>
-        <a href="https://linkedin.com/in/yourusername">
+        <a href="https://www.linkedin.com/in/sahil-kumar-sharma-9a760b355/">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/yourusername">
+        <a href="https://github.com/RoSahilTech">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=plastic" alt="GitHub" />
         </a>
       </td>
       <td>
-        <a href="mailto:your.email@example.com">
+        <a href="mailto:sahilkumarsharmaprofessional@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic" alt="Gmail" />
         </a>
       </td>
