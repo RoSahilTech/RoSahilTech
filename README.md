@@ -1,15 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=SAHIL%20KUMAR%20SHARMA&fontSize=70&fontColor=3b82f6&animation=fadeIn" alt="Header"/>
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=0CE82B&center=true&vCenter=true&repeat=false&width=800&height=80&lines=SAHIL+KUMAR+SHARMA" alt="Header"/>
+  </a>
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=500&height=70&lines=Robotics+%26+Electronics+Engineer;Embedded+Systems+Developer;Circuit+Design+Specialist;Autonomous+Systems+Expert" alt="Typing SVG" />
+  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=500&color=FF00FF&center=true&vCenter=true&random=false&width=435&lines=SYSTEM+ONLINE;INITIALIZED+NEURAL+NETWORK;ROBOTICS+SPECIALIST;ELECTRONICS+ENGINEER" alt="Typing SVG" /></a>
+  
   <br>
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+  
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=120&section=header&text=&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=62&descAlign=62" alt="waves">
 </div>
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+  <img src="https://i.imgur.com/QTi5dJP.gif" width="600">
   <br>
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+  <img src="https://i.imgur.com/x1KbuCq.gif" height="30" width="100%">
 </div>
 
 ## 🤖 About Me
@@ -92,15 +97,6 @@ Passionate robotics and electronics engineer with a focus on creating innovative
   <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 </div>
 
-<div align="center">
-  <a href="https://www.buymeacoffee.com/yourusername">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee">
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffee/images/footer.svg" width="100%">
-</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
