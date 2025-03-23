@@ -1,14 +1,15 @@
-
 <div align="center">
-  <a href="#">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:10b981&height=200&section=header&text=SAHIL%20KUMAR%20SHARMA&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Robotics%20%26%20Electronics%20Engineer&descAlignY=55&animation=fadeIn" alt="Header" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=SAHIL%20KUMAR%20SHARMA&fontSize=70&fontColor=3b82f6&animation=fadeIn" alt="Header"/>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=500&height=70&lines=Robotics+%26+Electronics+Engineer;Embedded+Systems+Developer;Circuit+Design+Specialist;Autonomous+Systems+Expert" alt="Typing SVG" />
+  <br>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621893f5d51c3d6/images/terminal.gif" width="500">
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
   <br>
-  <img src="https://user-images.githubusercontent.com/74038190/212284068-b4097b49-787a-43d9-8a64-55a25a91ca6a.gif" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 </div>
 
 ## 🤖 About Me
